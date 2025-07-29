@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-*z$^xhs1+=m++4*yq*4#%a*6zi1*(zy1rd-pzxuwb$+5&#x=(t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['contact.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['contact.com', 'localhost', '127.0.0.1', 'portfoliyobackend.onrender.com']
+
 
 
 
